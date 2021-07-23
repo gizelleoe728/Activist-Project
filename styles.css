@@ -1,7 +1,30 @@
 body {
  text-align: center;   
+    background-color: #b39ddc;
 }
 img {
  height: 290px;
     width: 270px;
+    border: 5px hidden;
+    margin: 10px;
+}
+#topmental {
+    font-family: 'STIX Two Math', serif;
+    border: 5px outset white;
+    background-color: #1C1C1C;
+    color: white;
+}
+#disclaimer {
+    font-family: 'Oswald', sans-serif;
+    border: 5px hidden;
+    padding: 15px;
+    background-color: #334553;
+    color: #E2DBF0;
+    border-radius: 30px;
+}
+#mental {
+    font-family: 'STIX Two Math', serif;
+}
+.mentalh {
+    
 }
